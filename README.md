@@ -127,3 +127,13 @@ Micro-Doppler Spectrogram:
       url={https://arxiv.org/abs/2508.07513}, 
 }
 ```
+
+## Star History
+
+<a href="https://www.star-history.com/#ekurtgl/FMCW-MIMO-Radar-Simulation&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ekurtgl/FMCW-MIMO-Radar-Simulation&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ekurtgl/FMCW-MIMO-Radar-Simulation&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ekurtgl/FMCW-MIMO-Radar-Simulation&type=date&legend=top-left" />
+ </picture>
+</a>
